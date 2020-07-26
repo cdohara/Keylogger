@@ -1,5 +1,6 @@
 # Keylogger
 A simple keylogger coded in C++
+Not designed to be hidden to user, as it is only a proof of concept
 
 ### Caveats
 - Only handles US keyboard input correctly
